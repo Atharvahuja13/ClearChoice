@@ -1,0 +1,1 @@
+{"manifest_version":3,"name":"ClearChoice Safari","version":"0.4.0","description":"User-controlled reading preferences on supported Safari pages.","permissions":["storage"],"host_permissions":["http://localhost/*","http://127.0.0.1/*"],"content_scripts":[{"matches":["http://localhost/*","http://127.0.0.1/*"],"js":["content.js"],"run_at":"document_idle"}]}

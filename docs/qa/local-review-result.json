@@ -1,0 +1,118 @@
+{
+  "request": {
+    "requestKind": "review",
+    "aiConsent": true,
+    "perception": {
+      "sourceRevision": "controlled-review-2026-11-10",
+      "elements": [
+        {
+          "id": "addon",
+          "type": "checkbox",
+          "text": "Add protection plan",
+          "checked": true,
+          "visible": true
+        },
+        {
+          "id": "stock",
+          "type": "text",
+          "text": "Only 2 left",
+          "visible": true
+        },
+        {
+          "id": "terms",
+          "type": "text",
+          "text": "Additional charges may apply",
+          "visible": true
+        }
+      ]
+    }
+  },
+  "status": 200,
+  "cors": "http://127.0.0.1:4173",
+  "preflightStatus": 204,
+  "result": {
+    "mode": "local-ai-review",
+    "label": "Local AI review · source evidence checked",
+    "findings": [
+      {
+        "sourceId": "addon",
+        "sourceRevision": "controlled-review-2026-11-10",
+        "ruleId": "preselected-extras",
+        "evidence": "Add protection plan",
+        "sourceEvidence": {
+          "id": "addon",
+          "type": "checkbox",
+          "text": "Add protection plan",
+          "label": null,
+          "visible": true,
+          "checked": true
+        },
+        "confidence": "indicator",
+        "verification": "observed",
+        "observation": "The source snapshot records this add-on checkbox as selected: “Add protection plan”.",
+        "rationale": "The selected state is observed; this snapshot cannot show who selected it or why. Review it before continuing."
+      },
+      {
+        "sourceId": "stock",
+        "sourceRevision": "controlled-review-2026-11-10",
+        "ruleId": "unverified-urgency",
+        "evidence": "Only 2 left",
+        "sourceEvidence": {
+          "id": "stock",
+          "type": "text",
+          "text": "Only 2 left",
+          "label": null,
+          "visible": true
+        },
+        "confidence": "indicator",
+        "verification": "unverified",
+        "observation": "The source displays: “Only 2 left”.",
+        "rationale": "The snapshot does not verify current inventory, demand, or a deadline. Treat the urgency claim as unverified."
+      },
+      {
+        "sourceId": "terms",
+        "sourceRevision": "controlled-review-2026-11-10",
+        "ruleId": "ambiguous-terms",
+        "evidence": "Additional charges may apply",
+        "sourceEvidence": {
+          "id": "terms",
+          "type": "text",
+          "text": "Additional charges may apply",
+          "label": null,
+          "visible": true
+        },
+        "confidence": "indicator",
+        "verification": "unverified",
+        "observation": "The source displays: “Additional charges may apply”.",
+        "rationale": "This wording does not identify the charge amount or the condition that triggers it in the captured screen."
+      }
+    ],
+    "suggestions": [
+      {
+        "id": "review-preselected-extras-addon",
+        "sourceId": "addon",
+        "sourceRevision": "controlled-review-2026-11-10",
+        "ruleId": "preselected-extras",
+        "kind": "annotation",
+        "text": "The source snapshot records this add-on checkbox as selected: “Add protection plan”. The selected state is observed; this snapshot cannot show who selected it or why. Review it before continuing."
+      },
+      {
+        "id": "review-unverified-urgency-stock",
+        "sourceId": "stock",
+        "sourceRevision": "controlled-review-2026-11-10",
+        "ruleId": "unverified-urgency",
+        "kind": "annotation",
+        "text": "The source displays: “Only 2 left”. The snapshot does not verify current inventory, demand, or a deadline. Treat the urgency claim as unverified."
+      },
+      {
+        "id": "review-ambiguous-terms-terms",
+        "sourceId": "terms",
+        "sourceRevision": "controlled-review-2026-11-10",
+        "ruleId": "ambiguous-terms",
+        "kind": "annotation",
+        "text": "The source displays: “Additional charges may apply”. This wording does not identify the charge amount or the condition that triggers it in the captured screen."
+      }
+    ],
+    "layout": null
+  }
+}

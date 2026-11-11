@@ -1,0 +1,5 @@
+plugins {
+    id 'com.android.application' version '8.7.3' apply false
+}
+// Keep generated resources outside cloud-synced Documents to avoid duplicate-file conflicts.
+subprojects { layout.buildDirectory.set(file("${gradle.gradleUserHomeDir}/clearchoice-build/${project.name}")) }

@@ -1,0 +1,54 @@
+> Task :demoshop:preBuild UP-TO-DATE
+> Task :demoshop:preDebugBuild UP-TO-DATE
+> Task :demoshop:javaPreCompileDebug UP-TO-DATE
+> Task :demoshop:checkDebugAarMetadata UP-TO-DATE
+> Task :demoshop:generateDebugResValues UP-TO-DATE
+> Task :demoshop:mapDebugSourceSetPaths UP-TO-DATE
+> Task :demoshop:generateDebugResources UP-TO-DATE
+> Task :demoshop:mergeDebugResources UP-TO-DATE
+> Task :demoshop:packageDebugResources UP-TO-DATE
+> Task :demoshop:parseDebugLocalResources UP-TO-DATE
+> Task :demoshop:createDebugCompatibleScreenManifests UP-TO-DATE
+> Task :demoshop:extractDeepLinksDebug UP-TO-DATE
+> Task :demoshop:processDebugMainManifest UP-TO-DATE
+> Task :demoshop:processDebugManifest UP-TO-DATE
+> Task :demoshop:processDebugManifestForPackage UP-TO-DATE
+> Task :demoshop:processDebugResources UP-TO-DATE
+> Task :demoshop:compileDebugJavaWithJavac UP-TO-DATE
+> Task :demoshop:bundleDebugClassesToCompileJar UP-TO-DATE
+> Task :demoshop:preDebugAndroidTestBuild SKIPPED
+> Task :demoshop:javaPreCompileDebugAndroidTest UP-TO-DATE
+> Task :demoshop:checkDebugAndroidTestAarMetadata UP-TO-DATE
+> Task :demoshop:generateDebugAndroidTestResValues UP-TO-DATE
+> Task :demoshop:mapDebugAndroidTestSourceSetPaths UP-TO-DATE
+> Task :demoshop:generateDebugAndroidTestResources UP-TO-DATE
+> Task :demoshop:mergeDebugAndroidTestResources UP-TO-DATE
+> Task :demoshop:processDebugAndroidTestManifest
+> Task :demoshop:mergeDebugAndroidTestShaders UP-TO-DATE
+> Task :demoshop:compileDebugAndroidTestShaders NO-SOURCE
+> Task :demoshop:generateDebugAndroidTestAssets UP-TO-DATE
+> Task :demoshop:mergeDebugAndroidTestAssets UP-TO-DATE
+> Task :demoshop:compressDebugAndroidTestAssets UP-TO-DATE
+> Task :demoshop:processDebugAndroidTestJavaRes NO-SOURCE
+> Task :demoshop:mergeDebugAndroidTestJavaResource UP-TO-DATE
+> Task :demoshop:checkDebugAndroidTestDuplicateClasses UP-TO-DATE
+> Task :demoshop:desugarDebugAndroidTestFileDependencies UP-TO-DATE
+> Task :demoshop:mergeExtDexDebugAndroidTest UP-TO-DATE
+> Task :demoshop:mergeLibDexDebugAndroidTest UP-TO-DATE
+> Task :demoshop:mergeDebugAndroidTestJniLibFolders UP-TO-DATE
+> Task :demoshop:mergeDebugJniLibFolders UP-TO-DATE
+> Task :demoshop:mergeDebugNativeLibs NO-SOURCE
+> Task :demoshop:mergeDebugAndroidTestNativeLibs NO-SOURCE
+> Task :demoshop:stripDebugAndroidTestDebugSymbols NO-SOURCE
+> Task :demoshop:validateSigningDebugAndroidTest UP-TO-DATE
+> Task :demoshop:writeDebugAndroidTestSigningConfigVersions UP-TO-DATE
+> Task :demoshop:processDebugAndroidTestResources
+> Task :demoshop:compileDebugAndroidTestJavaWithJavac UP-TO-DATE
+> Task :demoshop:dexBuilderDebugAndroidTest UP-TO-DATE
+> Task :demoshop:mergeProjectDexDebugAndroidTest UP-TO-DATE
+> Task :demoshop:packageDebugAndroidTest
+> Task :demoshop:createDebugAndroidTestApkListingFileRedirect UP-TO-DATE
+> Task :demoshop:assembleDebugAndroidTest
+
+BUILD SUCCESSFUL in 745ms
+41 actionable tasks: 3 executed, 38 up-to-date

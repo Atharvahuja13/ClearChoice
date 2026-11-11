@@ -1,0 +1,2 @@
+4eb284190bfef4f6db05f67ef3b23377ddd5456f5ec1e3d37be2186a0d0228db  apps/android/ClearChoice-debug.apk
+24ad1d98abb156406b6f8d5b3d74c6f4e5067b5353b9eeaf2efd3696b71807c6  apps/android/DemoShop-debug.apk

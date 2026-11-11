@@ -1,0 +1,2 @@
+// Strict demo-only Safari module. No remote retailer claims or purchase interception.
+const bar=document.createElement('aside');bar.setAttribute('aria-label','ClearChoice Safari demo layer');bar.textContent='✓ ClearChoice · supported demo page';bar.style.cssText='position:fixed;z-index:2147483647;bottom:12px;left:12px;padding:12px 16px;border-radius:14px;background:#211a30;color:#fff;font:600 14px system-ui;box-shadow:0 6px 28px #0005';document.documentElement.append(bar);

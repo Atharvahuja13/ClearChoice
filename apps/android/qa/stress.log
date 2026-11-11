@@ -1,0 +1,2400 @@
+RUN 1 elapsed=19.1s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 2 elapsed=38.3s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 3 elapsed=57.1s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 4 elapsed=76.6s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 5 elapsed=94.4s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 6 elapsed=112.6s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 7 elapsed=130.9s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 8 elapsed=148.8s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 9 elapsed=166.9s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 10 elapsed=185.1s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 11 elapsed=203.1s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 12 elapsed=221.3s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 13 elapsed=239.3s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 14 elapsed=257.6s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 15 elapsed=275.8s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 16 elapsed=294.2s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 17 elapsed=312.4s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 18 elapsed=330.4s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 19 elapsed=348.6s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 20 elapsed=366.7s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 21 elapsed=384.8s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 22 elapsed=402.7s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 23 elapsed=420.8s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 24 elapsed=439.2s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 25 elapsed=457.3s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 26 elapsed=475.4s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 27 elapsed=493.5s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 28 elapsed=511.6s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 29 elapsed=529.7s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 30 elapsed=547.7s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 31 elapsed=565.9s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 32 elapsed=583.9s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 33 elapsed=602.0s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 34 elapsed=620.0s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 35 elapsed=638.2s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 36 elapsed=656.6s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 37 elapsed=674.7s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 38 elapsed=693.0s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 39 elapsed=711.2s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 40 elapsed=729.3s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 41 elapsed=747.4s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 42 elapsed=765.6s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 43 elapsed=783.7s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 44 elapsed=801.9s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 45 elapsed=820.1s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 46 elapsed=838.3s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 47 elapsed=856.2s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 48 elapsed=874.2s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 49 elapsed=892.4s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 50 elapsed=910.6s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 51 elapsed=928.7s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 52 elapsed=946.6s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 53 elapsed=964.6s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 54 elapsed=982.7s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 55 elapsed=1000.9s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 56 elapsed=1019.2s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 57 elapsed=1037.2s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 58 elapsed=1055.2s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 59 elapsed=1073.3s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 60 elapsed=1091.3s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 61 elapsed=1109.5s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 62 elapsed=1127.5s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 63 elapsed=1145.6s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 64 elapsed=1163.7s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 65 elapsed=1181.9s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 66 elapsed=1200.0s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 67 elapsed=1218.1s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 68 elapsed=1236.0s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 69 elapsed=1254.1s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 70 elapsed=1272.2s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 71 elapsed=1290.3s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 72 elapsed=1308.5s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 73 elapsed=1326.8s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 74 elapsed=1345.0s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 75 elapsed=1363.1s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 76 elapsed=1381.2s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 77 elapsed=1399.3s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 78 elapsed=1417.4s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 79 elapsed=1435.5s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 80 elapsed=1453.5s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 81 elapsed=1471.7s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 82 elapsed=1489.7s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 83 elapsed=1507.8s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 84 elapsed=1525.9s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 85 elapsed=1544.1s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 86 elapsed=1562.2s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 87 elapsed=1580.4s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 88 elapsed=1598.7s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 89 elapsed=1616.7s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 90 elapsed=1634.9s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 91 elapsed=1653.2s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 92 elapsed=1671.3s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 93 elapsed=1689.4s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 94 elapsed=1707.8s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 95 elapsed=1725.8s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 96 elapsed=1743.9s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 97 elapsed=1762.1s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 98 elapsed=1780.2s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 99 elapsed=1798.2s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+
+RUN 100 elapsed=1816.5s
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
+
+

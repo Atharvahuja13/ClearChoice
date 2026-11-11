@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "ClearChoice",
+  "version": "0.1.0",
+  "description": "Make interface choices clearer while keeping control with you.",
+  "permissions": ["storage", "scripting", "activeTab"],
+  "optional_host_permissions": ["http://*/*", "https://*/*"],
+  "background": { "service_worker": "src/background.js", "type": "module" },
+  "action": { "default_popup": "popup.html", "default_title": "ClearChoice" },
+  "web_accessible_resources": [{ "resources": ["src/index.js","src/browser-adapter.js"], "matches": ["http://*/*", "https://*/*"] }]
+}

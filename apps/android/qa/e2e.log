@@ -1,0 +1,35 @@
+emulator transport offline; retrying
+tap: Continue
+tap: Continue
+tap: Continue
+tap: Enable Demo Shop overlay
+tap: Continue
+tap: Continue
+tap: Open Demo Shop
+Traceback (most recent call last):
+  File "/Users/atharvahuja/Documents/ChatGPT/ClearChoice/apps/android/qa/e2e.py", line 50, in <module>
+    require('Cloud Knit Sneakers');require('ClearChoice');screenshot('shop-overlay')
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/atharvahuja/Documents/ChatGPT/ClearChoice/apps/android/qa/e2e.py", line 39, in require
+    if s.lower() not in t.lower(): raise AssertionError('Expected visible text: '+s+'\nObserved: '+t[:1200])
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Expected visible text: Cloud Knit Sneakers
+Observed: 
+
+
+
+
+
+Set up ClearChoice
+Step 6 of 7 · Test the demo
+
+Test the demo
+Install and open the separate Demo Shop app to try the controlled sample.
+OPEN DEMO SHOP
+CONTINUE
+BACK
+
+HOME
+FEATURES
+ACTIVITY
+SETTINGS

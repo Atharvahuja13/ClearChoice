@@ -1,0 +1,2 @@
+15146588aa1d07933e099e24121dcedae7a097c7911baaaacc39690851e93086  ClearChoice-debug.apk
+bb0f3fa8e9e918a49f2ce5f3f942d671a164e0d82062953d8681be9ec58ccbca  DemoShop-debug.apk

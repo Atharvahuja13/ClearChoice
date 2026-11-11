@@ -1,0 +1,2 @@
+INSTRUMENTATION_RESULT: result=16 internal source-to-annotation checks passed: real source bounds, real native tap pass-through, price revision, scrolling, pause and own-window stability. No retailer E2E or recordings.
+INSTRUMENTATION_CODE: 0

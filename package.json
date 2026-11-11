@@ -1,0 +1,29 @@
+{
+  "name": "clearchoice",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A transparent, user-controlled layer for clearer choices in existing interfaces.",
+  "scripts": {
+    "test": "node --test tests/js/*.test.js",
+    "test:e2e": "npm run extension:build && playwright test tests/e2e/*.spec.js",
+    "check": "node --check packages/engine/src/index.js && node --check packages/engine/src/browser-adapter.js && node --check services/ai-gateway/src/server.js && node --check apps/browser-extension/src/content.js && node --check apps/browser-extension/src/background.js && node --check apps/browser-extension/src/popup.js",
+    "gateway": "node services/ai-gateway/src/server.js",
+    "dev": "node scripts/dev-server.js",
+    "extension:build": "node scripts/build-extension.js",
+    "build": "npm run extension:build && npm run check",
+    "emulator": "node scripts/emulator-stream.js"
+  },
+  "exports": {
+    "./engine": "./packages/engine/src/index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.65.0"
+  },
+  "dependencies": {
+    "ws": "^8.18.3"
+  }
+}

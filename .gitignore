@@ -1,0 +1,42 @@
+# JavaScript dependencies and generated output
+node_modules/
+.npm/
+.coverage/
+playwright-report/
+test-results/
+
+# iOS/Xcode generated and signing material
+DerivedData/
+**/DerivedData/
+*.xcuserstate
+*.xcuserdatad/
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.ipa
+*.dSYM/
+*.mobileprovision
+*.p12
+
+# Android/Gradle generated output (Android app is owned elsewhere)
+.gradle/
+**/build/
+local.properties
+*.jks
+*.keystore
+
+# Local configuration, credentials, and provider material
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Test captures and SDK artifacts are private unless deliberately curated
+captures/
+artifacts/
+*.xcarchive/
+
+# Superseded local-only demo captures (keep files on disk)
+apps/android/qa/evidence/ClearChoice-evidence.mp4
+docs/demo/ClearChoice-demo.mp4
+docs/demo/narration.aiff

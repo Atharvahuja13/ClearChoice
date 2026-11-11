@@ -1,0 +1,130 @@
+> Task :clearchoice:preBuild UP-TO-DATE
+> Task :clearchoice:preDebugBuild UP-TO-DATE
+> Task :clearchoice:mergeDebugNativeDebugMetadata NO-SOURCE
+> Task :clearchoice:javaPreCompileDebug UP-TO-DATE
+> Task :clearchoice:checkDebugAarMetadata UP-TO-DATE
+> Task :clearchoice:generateDebugResValues UP-TO-DATE
+> Task :clearchoice:mapDebugSourceSetPaths UP-TO-DATE
+> Task :clearchoice:generateDebugResources UP-TO-DATE
+> Task :clearchoice:mergeDebugResources UP-TO-DATE
+> Task :clearchoice:packageDebugResources UP-TO-DATE
+> Task :clearchoice:parseDebugLocalResources UP-TO-DATE
+> Task :clearchoice:createDebugCompatibleScreenManifests UP-TO-DATE
+> Task :clearchoice:extractDeepLinksDebug UP-TO-DATE
+> Task :clearchoice:processDebugMainManifest UP-TO-DATE
+> Task :clearchoice:processDebugManifest UP-TO-DATE
+> Task :clearchoice:processDebugManifestForPackage UP-TO-DATE
+> Task :clearchoice:processDebugResources UP-TO-DATE
+
+> Task :clearchoice:compileDebugJavaWithJavac
+Java compiler version 21 has deprecated support for compiling with source/target version 8.
+Try one of the following options:
+    1. [Recommended] Use Java toolchain with a lower language version
+    2. Set a higher source/target version
+    3. Use a lower version of the JDK running the build (if you're not using Java toolchain)
+For more details on how to configure these settings, see https://developer.android.com/build/jdks.
+To suppress this warning, set android.javaCompile.suppressSourceTargetDeprecationWarning=true in gradle.properties.
+warning: [options] source value 8 is obsolete and will be removed in a future release
+warning: [options] target value 8 is obsolete and will be removed in a future release
+warning: [options] To suppress warnings about obsolete options, use -Xlint:-options.
+Note: /Users/atharvahuja/Documents/ChatGPT/ClearChoice/apps/android/clearchoice/src/main/java/com/clearchoice/ClearChoiceService.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+3 warnings
+
+> Task :clearchoice:mergeDebugShaders UP-TO-DATE
+> Task :clearchoice:compileDebugShaders NO-SOURCE
+> Task :clearchoice:generateDebugAssets UP-TO-DATE
+> Task :clearchoice:mergeDebugAssets UP-TO-DATE
+> Task :clearchoice:compressDebugAssets UP-TO-DATE
+> Task :clearchoice:processDebugJavaRes NO-SOURCE
+> Task :clearchoice:mergeDebugJavaResource UP-TO-DATE
+> Task :clearchoice:checkDebugDuplicateClasses UP-TO-DATE
+> Task :clearchoice:desugarDebugFileDependencies UP-TO-DATE
+> Task :clearchoice:mergeExtDexDebug UP-TO-DATE
+> Task :clearchoice:mergeLibDexDebug UP-TO-DATE
+> Task :clearchoice:dexBuilderDebug
+> Task :clearchoice:mergeDebugJniLibFolders UP-TO-DATE
+> Task :clearchoice:mergeDebugNativeLibs NO-SOURCE
+> Task :clearchoice:stripDebugDebugSymbols NO-SOURCE
+> Task :clearchoice:validateSigningDebug UP-TO-DATE
+> Task :clearchoice:writeDebugAppMetadata UP-TO-DATE
+> Task :clearchoice:writeDebugSigningConfigVersions UP-TO-DATE
+> Task :demoshop:preBuild UP-TO-DATE
+> Task :demoshop:preDebugBuild UP-TO-DATE
+> Task :demoshop:mergeDebugNativeDebugMetadata NO-SOURCE
+> Task :demoshop:javaPreCompileDebug UP-TO-DATE
+> Task :demoshop:checkDebugAarMetadata UP-TO-DATE
+> Task :demoshop:generateDebugResValues UP-TO-DATE
+> Task :demoshop:mapDebugSourceSetPaths UP-TO-DATE
+> Task :demoshop:generateDebugResources UP-TO-DATE
+> Task :clearchoice:mergeProjectDexDebug
+> Task :demoshop:mergeDebugResources UP-TO-DATE
+> Task :demoshop:packageDebugResources UP-TO-DATE
+> Task :demoshop:parseDebugLocalResources UP-TO-DATE
+> Task :demoshop:createDebugCompatibleScreenManifests UP-TO-DATE
+> Task :demoshop:extractDeepLinksDebug UP-TO-DATE
+> Task :demoshop:processDebugMainManifest UP-TO-DATE
+> Task :demoshop:processDebugManifest UP-TO-DATE
+> Task :demoshop:processDebugManifestForPackage UP-TO-DATE
+> Task :demoshop:processDebugResources UP-TO-DATE
+> Task :demoshop:compileDebugJavaWithJavac UP-TO-DATE
+> Task :demoshop:mergeDebugShaders UP-TO-DATE
+> Task :demoshop:compileDebugShaders NO-SOURCE
+> Task :demoshop:generateDebugAssets UP-TO-DATE
+> Task :demoshop:mergeDebugAssets UP-TO-DATE
+> Task :demoshop:compressDebugAssets UP-TO-DATE
+> Task :demoshop:processDebugJavaRes NO-SOURCE
+> Task :demoshop:mergeDebugJavaResource UP-TO-DATE
+> Task :demoshop:checkDebugDuplicateClasses UP-TO-DATE
+> Task :demoshop:desugarDebugFileDependencies UP-TO-DATE
+> Task :demoshop:mergeExtDexDebug UP-TO-DATE
+> Task :demoshop:mergeLibDexDebug UP-TO-DATE
+> Task :demoshop:dexBuilderDebug UP-TO-DATE
+> Task :demoshop:mergeProjectDexDebug UP-TO-DATE
+> Task :demoshop:mergeDebugJniLibFolders UP-TO-DATE
+> Task :demoshop:mergeDebugNativeLibs NO-SOURCE
+> Task :demoshop:stripDebugDebugSymbols NO-SOURCE
+> Task :demoshop:validateSigningDebug UP-TO-DATE
+> Task :demoshop:writeDebugAppMetadata UP-TO-DATE
+> Task :demoshop:writeDebugSigningConfigVersions UP-TO-DATE
+> Task :demoshop:packageDebug UP-TO-DATE
+> Task :demoshop:createDebugApkListingFileRedirect UP-TO-DATE
+> Task :demoshop:assembleDebug UP-TO-DATE
+> Task :demoshop:bundleDebugClassesToCompileJar UP-TO-DATE
+> Task :demoshop:preDebugAndroidTestBuild SKIPPED
+> Task :demoshop:javaPreCompileDebugAndroidTest UP-TO-DATE
+> Task :demoshop:checkDebugAndroidTestAarMetadata UP-TO-DATE
+> Task :demoshop:generateDebugAndroidTestResValues UP-TO-DATE
+> Task :demoshop:mapDebugAndroidTestSourceSetPaths UP-TO-DATE
+> Task :demoshop:generateDebugAndroidTestResources UP-TO-DATE
+> Task :demoshop:mergeDebugAndroidTestResources UP-TO-DATE
+> Task :demoshop:processDebugAndroidTestManifest
+> Task :demoshop:mergeDebugAndroidTestShaders UP-TO-DATE
+> Task :demoshop:compileDebugAndroidTestShaders NO-SOURCE
+> Task :demoshop:generateDebugAndroidTestAssets UP-TO-DATE
+> Task :demoshop:mergeDebugAndroidTestAssets UP-TO-DATE
+> Task :demoshop:compressDebugAndroidTestAssets UP-TO-DATE
+> Task :demoshop:processDebugAndroidTestJavaRes NO-SOURCE
+> Task :demoshop:mergeDebugAndroidTestJavaResource UP-TO-DATE
+> Task :demoshop:checkDebugAndroidTestDuplicateClasses UP-TO-DATE
+> Task :demoshop:desugarDebugAndroidTestFileDependencies UP-TO-DATE
+> Task :demoshop:mergeExtDexDebugAndroidTest UP-TO-DATE
+> Task :demoshop:mergeLibDexDebugAndroidTest UP-TO-DATE
+> Task :demoshop:mergeDebugAndroidTestJniLibFolders UP-TO-DATE
+> Task :demoshop:mergeDebugAndroidTestNativeLibs NO-SOURCE
+> Task :demoshop:stripDebugAndroidTestDebugSymbols NO-SOURCE
+> Task :demoshop:validateSigningDebugAndroidTest UP-TO-DATE
+> Task :demoshop:writeDebugAndroidTestSigningConfigVersions UP-TO-DATE
+> Task :clearchoice:packageDebug
+> Task :clearchoice:createDebugApkListingFileRedirect UP-TO-DATE
+> Task :clearchoice:assembleDebug
+> Task :demoshop:processDebugAndroidTestResources
+> Task :demoshop:compileDebugAndroidTestJavaWithJavac UP-TO-DATE
+> Task :demoshop:dexBuilderDebugAndroidTest UP-TO-DATE
+> Task :demoshop:mergeProjectDexDebugAndroidTest UP-TO-DATE
+> Task :demoshop:packageDebugAndroidTest
+> Task :demoshop:createDebugAndroidTestApkListingFileRedirect UP-TO-DATE
+> Task :demoshop:assembleDebugAndroidTest
+
+BUILD SUCCESSFUL in 5s
+87 actionable tasks: 7 executed, 80 up-to-date

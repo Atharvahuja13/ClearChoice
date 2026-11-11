@@ -1,0 +1,29 @@
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Home
+clicked Pause shopping overlay
+PASS dashboard pause hides overlay
+clicked Home
+clicked Resume shopping overlay
+observed ◈ ClearChoice
+PASS dashboard resume
+observed ◈ ClearChoice
+PASS orientation re-render
+PASS permission revocation removes overlay
+clicked Shop
+observed ◈ ClearChoice
+PASS service rebind after permission restored
+PASS password/editable source excluded before content snapshot; no entered value in preferences
+PASS valid per-screen profile schema and invalid range rejection
+PASS unknown/stale AI references rejected
+clicked Home
+clicked Design Studio
+clicked Export profiles as JSON
+clicked Close
+clicked Import profiles from JSON
+clicked Import
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+PASS real UI JSON export/import and applied PRODUCT override
+
+INSTRUMENTATION_CODE: 0

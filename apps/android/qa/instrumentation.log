@@ -1,0 +1,21 @@
+INSTRUMENTATION_RESULT: result=observed ◈ ClearChoice
+clicked Next products — scroll original
+clicked Next products — scroll original
+observed ▧   Reading Light
+clicked Shop
+clicked Show original store
+observed Good finds, clear prices
+observed ◈ ClearChoice
+clicked View details
+observed SCREEN:PRODUCT
+clicked Select size
+clicked Medium
+clicked Select color
+clicked Sage
+clicked Add to cart
+observed Cart (1)
+clicked Continue to checkout
+observed Demo checkout
+PASS core source overlay actions and exact cart count
+
+INSTRUMENTATION_CODE: 0
